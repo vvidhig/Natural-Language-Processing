@@ -1,1 +1,1 @@
-these are the Jupyter notebooks of my GFG NLP Lectures
+these are the Jupyter notebooks of my GeeksForGeeks NLP Lectures
